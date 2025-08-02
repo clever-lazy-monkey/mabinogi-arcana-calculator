@@ -1,7 +1,7 @@
 # mabinogi-arcana-calculator
 calculates levels, rebirths, threads, crests, gold, etc. needed for arcana
 
-## features
+### features:
 🦍 level calculator - calculates rebirths needed based on level/experience  
 🦧 crest calculator - calculates crests / threads and gold needed for link upgrades
 
