@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# artifacts
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+*.code-workspace
+
+# os
+.DS_Store
+Thumbs.db
